@@ -1,8 +1,7 @@
-unstructured
-tiktoken
-pinecone-client
-pypdf
 langchain
-pandas
-numpy
+pinecone-client
+langchain-groq
+langchain-community
+langchain-nomic
+pypdf
 python-dotenv
